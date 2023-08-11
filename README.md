@@ -10,7 +10,7 @@
   <img alt="GitHub Top Language" src="https://user-images.githubusercontent.com/105563572/216620555-a3cee9f6-5f1f-48b7-9c0a-35140a413dbb.svg">
 </p>
 
-<img align="right" src="https://github.com/johndj68/gsae/assets/105563572/b101da3d-654b-4556-b4fa-29557ea3905e" width="35%" alt="GSAE">
+<img align="right" src="https://github.com/johndj68/gsae/assets/105563572/b07f6737-2d9f-47a5-9827-50219217e04d" width="35%" alt="GSAE">
 
 ## Tópicos 
 
@@ -80,6 +80,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
 ---
 
 Feito com :purple_heart: by [John Denys Soares](https://github.com/johndj68),[Alexandre Cauceiro](https://github.com/alexcouc),[Paulo Rocha](https://github.com/plxmeira),[Lucas Tadeu](https://github.com/ldelavor).
+
 
 
 
