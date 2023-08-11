@@ -2,10 +2,7 @@
 # GSAE
 
 <p>
-  <img src="https://img.shields.io/badge/made%20by-John%20Denys%20Soares-793ef9?style=flat-square">
-  <img src="https://img.shields.io/badge/made%20by-Lucas%20Tadeu-793ef9?style=flat-square">
-  <img src="https://img.shields.io/badge/made%20by-Alexandre%20Cauceiro-793ef9?style=flat-square">
-  <img src="https://img.shields.io/badge/made%20by-Paulo%20Rocha-793ef9?style=flat-square">
+  <img src="https://img.shields.io/badge/made%20by-John%20Denys%20Soares,Lucas%20Tadeu,Alexandre%20Cauceiro,Paulo%20Rocha-793ef9?style=flat-square">
   <img alt="GitHub language count" src="https://user-images.githubusercontent.com/105563572/216619749-510f88a3-8c96-4816-9ff5-e0fafe85ed4b.svg">
   <img alt="GitHub Top Language" src="https://user-images.githubusercontent.com/105563572/216620555-a3cee9f6-5f1f-48b7-9c0a-35140a413dbb.svg">
 </p>
