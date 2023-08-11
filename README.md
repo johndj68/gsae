@@ -81,6 +81,9 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
 
 Feito com :purple_heart: by [John Denys Soares](https://github.com/johndj68),[Alexandre Cauceiro](https://github.com/alexcouc),[Paulo Rocha](https://github.com/plxmeira),[Lucas Tadeu](https://github.com/ldelavor).
 
+[![Linkedin Badge](https://img.shields.io/badge/-John%20Denys%20Soares-793ef9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-denys/)](https://www.linkedin.com/in/john-denys/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Tadeu-793ef9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-denys/)](https://www.linkedin.com/in/lucasdelavor/) 
+
 
 
 
