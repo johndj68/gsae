@@ -3,24 +3,24 @@
 
 <p>
   <img src="https://img.shields.io/badge/made%20by-John%20Denys%20Soares-793ef9?style=flat-square">
+  <img src="https://img.shields.io/badge/made%20by-Lucas%20Tadeu-793ef9?style=flat-square">
+  <img src="https://img.shields.io/badge/made%20by-Alexandre%20Cauceiro-793ef9?style=flat-square">
+  <img src="https://img.shields.io/badge/made%20by-Paulo%20Rocha-793ef9?style=flat-square">
   <img alt="GitHub language count" src="https://user-images.githubusercontent.com/105563572/216619749-510f88a3-8c96-4816-9ff5-e0fafe85ed4b.svg">
   <img alt="GitHub Top Language" src="https://user-images.githubusercontent.com/105563572/216620555-a3cee9f6-5f1f-48b7-9c0a-35140a413dbb.svg">
-  <a href="https://opensource.org/licenses/MIT">
-    <img alt="License" src="https://user-images.githubusercontent.com/105563572/216620974-e37e4cb0-6fd0-4005-8a43-7f64dd6c02eb.svg">
-  </a>
 </p>
 
-<img align="right" src="https://github.com/johndj68/gsae/assets/105563572/b101da3d-654b-4556-b4fa-29557ea3905e" width="35%" alt="DSmovie">
+<img align="right" src="https://github.com/johndj68/gsae/assets/105563572/b101da3d-654b-4556-b4fa-29557ea3905e" width="35%" alt="GSAE">
 
 ## Tópicos 
 
-[Sobre o DSMovie](#sobre-o-dsmovie)
+[Sobre o GSAE](#sobre-o-gsae)
 
 [Tecnologias](#tecnologias)
 
-[Instalação e uso](#instalação-e-uso)
+[Aparencia](#aparencia)
 
-[Organizacâo](#organizacâo)
+[Organizacão](#organizacão)
 
 <br>
 
@@ -50,44 +50,27 @@ movimento por um mundo mais consciente e responsável.
 
 Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 
+- [JavaScript](https://www.javascript.com/)
+- [Nodejs](https://nodejs.org/en/)
 - [CSS](https://tailwindcss.com/)
-
+- [HTML](https://www.h2database.com/html/main.html)
 <br>
 
 
-## Instalação e uso
-
-### Frontend
-
-```bash
-# Abra um terminal e copie este repositório com o comando
-git clone https://github.com/martins-rafael/dsmovie.git
-# ou use a opção de download.
-# Entre na pasta do projeto com 
-cd dsmovie/frontend
-# Instale as dependências
-yarn install
-# Rode a aplicação
-yarn dev
-# Acesse http://localhost:3000 no seu navegador.
-```
-
-### Backend
-
-```bash
-# Entre na pasta do projeto com 
-cd dsmovie/backend
-# Rode a aplicação
-# Acesse http://localhost:8080/movies no seu navegador.
-```
-
-<br>
-
-
-
-## organizacâo
+## Aparencia
 <a href="">
-    <img alt="License" src="https://user-images.githubusercontent.com/105563572/216620974-e37e4cb0-6fd0-4005-8a43-7f64dd6c02eb.svg">
+    <img alt="License" src="https://github.com/johndj68/gsae/assets/105563572/6095d10e-a56f-4030-a442-166916b90b24">
+</a>
+
+
+
+<br>
+
+
+
+## organizacão
+<a href="">
+    <img alt="License" src="https://github.com/johndj68/gsae/assets/105563572/4007d828-f70c-40d5-94f3-f4c58b552c90">
 </a>
 
 <br>
@@ -96,13 +79,14 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
 
 ---
 
-Feito com :purple_heart: by [John Denys Soares](https://github.com/johndj68)
+Feito com :purple_heart: by [John Denys Soares](https://github.com/johndj68),[Alexandre Cauceiro](https://github.com/alexcouc),[Paulo Rocha](https://github.com/plxmeira),[Lucas Tadeu](https://github.com/ldelavor).
 
 
 
 
 
 
-![IMG-20230810-WA0035](https://github.com/johndj68/gsae/assets/105563572/530201b4-b016-4e71-b246-ca7159f43a5b)
+
+
 
 
