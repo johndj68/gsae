@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Página de Cadastro</title>
+<link rel="stylesheet" href="cadastro.css"> 
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <div class="card">
+      <div class="logo">
+        <img src="/src/componentes/img/logo-preto.jpg" alt="Logo">
+      </div>
+      <h2 class="card-title">Faça seu Cadastro</h2>
+      <form>
+        <i class="material-icons">account_circle</i>
+          <label for="email">Matricula</label>
+        <div class="form-group">
+          <input type="text" id="email" name="email">
+        </div>
+        <i class="material-icons">key</i>
+          <label for="password">Senha</label>
+        <div class="form-group">
+          <input type="password" id="password" name="password">
+        </div>
+        <i class="material-icons">lock</i>
+        <label for="confirm-password">Confirmação de Senha</label>
+        <div class="form-group">
+          <input type="password" id="confirm-password" name="confirm-password">
+        </div>
+        <p class="success-message">Cadastro efetuado com sucesso!</p>
+        <p class="error-message">Mensagem de erro</p>
+        <div class="actions">
+          <a href="/login">Voltar</a>
+          <button id="create-account-btn">Criar</button>
+        </div>
+      </form>
+    </div>
+  </div>
+  <footer>
+    <img src="/src/componentes/img/logo-preto.jpg" alt="Imagem no Roda Pé">
+    <p>&copy; 2023 GSAE. Todos os direitos reservados.</p>
+</footer>
+</body>
+</html>
