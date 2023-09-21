@@ -4,7 +4,6 @@
 <p>
   <img src="https://img.shields.io/badge/made%20by-John%20Denys%20Soares,Lucas%20Tadeu,Alexandre%20Cauceiro,Paulo%20Rocha-793ef9?style=flat-square">
   <img alt="GitHub language count" src="https://user-images.githubusercontent.com/105563572/216619749-510f88a3-8c96-4816-9ff5-e0fafe85ed4b.svg">
-  <img alt="GitHub Top Language" src="https://user-images.githubusercontent.com/105563572/216620555-a3cee9f6-5f1f-48b7-9c0a-35140a413dbb.svg">
 </p>
 
 <img align="right" src="https://github.com/johndj68/gsae/assets/105563572/b07f6737-2d9f-47a5-9827-50219217e04d" width="35%" alt="GSAE">
@@ -35,13 +34,8 @@ movimento por um mundo mais consciente e responsável.
 <br>
 
 <p align="center">
-  <img src="https://github.com/johndj68/gsae/assets/105563572/b101da3d-654b-4556-b4fa-29557ea3905e" alt="Página inicial">
+  <img src="https://github.com/johndj68/gsae/assets/105563572/59455c33-7dd0-4020-a5f7-abfe290823b6" alt="Página inicial">
 </p>
-
-<p align="center">
-  <img src="https://github.com/johndj68/gsae/assets/105563572/4a15ecc9-2729-4b68-a597-a664b5d711be">
-</p>
-
 
 ## Tecnologias
 
@@ -80,7 +74,6 @@ Feito com :purple_heart: by [John Denys Soares](https://github.com/johndj68),[Al
 
 [![Linkedin Badge](https://img.shields.io/badge/-John%20Denys%20Soares-793ef9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-denys/)](https://www.linkedin.com/in/john-denys/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Tadeu-793ef9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-denys/)](https://www.linkedin.com/in/lucasdelavor/) 
-
 
 
 
