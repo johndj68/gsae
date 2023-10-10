@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Página de Cadastro</title>
 <link rel="stylesheet" href="cadastro.css"> 
+<script src="cadastro.js"></script>
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
 <body>
@@ -14,14 +15,14 @@
         <img src="/src/componentes/img-menu/logoGSAE.svg" alt="Logo">
       </div>
       <h2 class="card-title">Faça seu Cadastro</h2>
-      <form>
+      <form onsubmit="return handleSubmit()">
         <i class="material-icons">account_circle</i>
-          <label for="email">Matricula</label>
+        <label for="email">Matrícula</label>
         <div class="form-group">
           <input type="text" id="email" name="email">
         </div>
         <i class="material-icons">key</i>
-          <label for="password">Senha</label>
+        <label for="password">Senha</label>
         <div class="form-group">
           <input type="password" id="password" name="password">
         </div>
@@ -30,11 +31,11 @@
         <div class="form-group">
           <input type="password" id="confirm-password" name="confirm-password">
         </div>
-        <p class="success-message">Cadastro efetuado com sucesso!</p>
-        <p class="error-message">Mensagem de erro</p>
+        <p class="success-message" id="successMessage">Cadastro efetuado com sucesso!</p>
+        <p class="error-message" id="errorMessage">Mensagem de erro</p>
         <div class="actions">
-          <a href="/login">Voltar</a>
-          <button id="create-account-btn">Criar</button>
+          <a href="/src/pages/home/home.html">Home</a>
+          <button type="submit"  id="create-account-btn">Criar</button>
         </div>
       </form>
     </div>
@@ -42,6 +43,6 @@
   <footer>
     <img src="/src/componentes/img-menu/logoGSAE.svg" alt="Imagem no Roda Pé">
     <p>&copy; 2023 GSAE. Todos os direitos reservados.</p>
-</footer>
+  </footer>
 </body>
 </html>
