@@ -6,7 +6,7 @@ function handleSubmit() {
     if (password !== confirmPassword) {
       showError("As senhas não coincidem.");
       return false;
-    }
+    }   
   
     if (password.length < 8) {
       showError("A senha deve ter no mínimo 8 caracteres.");
@@ -29,9 +29,9 @@ function handleSubmit() {
     successMessage.textContent = message;
     successMessage.style.display = "block";
     
-    // Redirecionar para a página de login após 2 segundos (2000 milissegundos)
+   
     setTimeout(function() {
-      window.location.href = "/src/pages/login/login.html"; // Redireciona para a página login.html
+      window.location.href = "/src/pages/login/login.html";
     }, 2000)
   }
  

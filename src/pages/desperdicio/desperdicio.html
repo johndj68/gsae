@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Formulário de Desperdício de Alimentos</title>
+    <link rel="stylesheet" type="text/css" href="desperdicio.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Formulário de Registro de Desperdício de Alimentos</h1>
+        <br>
+
+        <form action="#" method="post" id="foodWasteForm">
+            <!-- Seu formulário de desperdício de alimentos aqui -->
+            
+    <form action="#" method="post" id="foodWasteForm">
+        <label for="tipo_alimento">Tipo de Alimento:</label>
+        <input type="text" id="tipo_alimento" name="tipo_alimento" required><br>
+
+        <label for="quantidade_desperdicada">Quantidade Desperdiçada (kg):</label>
+        <input type="number" id="quantidade_desperdicada" name="quantidade_desperdicada" required><br>
+
+        <label for="motivo_desperdicio">Motivo do Desperdício:</label>
+        <select id="motivo_desperdicio" name="motivo_desperdicio" required>
+            <option value="Vencimento da Validade">Vencimento da Validade</option>
+            <option value="Sobras Não Consumidas">Sobras Não Consumidas</option>
+            <option value="Preparação em Excesso">Preparação em Excesso</option>
+            <option value="Outro">Outro</option>
+        </select><br>
+
+        <input type="submit" value="Enviar">
+    </form>
+        </form>
+        
+        
+    </div>
+
+    <div id="statistics" class="hidden">
+        <!-- Aqui serão exibidos os gráficos e estatísticas -->
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+
+

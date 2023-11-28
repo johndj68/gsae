@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="doacao.css">
+    <title>Tela de Compartilhamento de Alimentos</title>
+</head>
+<body>
+   
+
+<div id="add-food">
+    <h2>Adicionar Alimento</h2>
+    <form id="food-form">
+        <label for="food-name">Nome do Alimento:</label>
+        <input type="text" id="food-name" required>
+
+        <label for="expiration-date">Data de Validade:</label>
+        <input type="date" id="expiration-date" required>
+
+        <button type="submit">Adicionar</button>
+    </form>
+</div>
+
+<div id="reserve-food">
+    <h2>Reservar Alimento</h2>
+    <form id="reservation-form">
+        <label for="food-to-reserve">Selecione o Alimento:</label>
+        <select id="food-to-reserve" required>
+            <option value="" disabled selected>Selecione o alimento</option>
+        </select>
+
+        <label for="pickup-time">Horário de Retirada:</label>
+        <input type="datetime-local" id="pickup-time" required>
+
+        <button type="submit">Reservar</button>
+    </form>
+</div>
+
+    <script src="doacao.js"></script>
+</body>
+</html>
